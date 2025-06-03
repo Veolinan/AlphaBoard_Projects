@@ -1,10 +1,10 @@
-# AlphoBoard_Projects
+# AlphaBoard_Projects
 
-Welcome to the AlphoBoard Projects repository! This repo contains example code and projects designed to test and utilize the AlphoBoard’s buttons, LEDs, and buzzer.
+Welcome to the AlphaBoard Projects repository! This repo contains example code and projects designed to test and utilize the AlphoBoard’s buttons, LEDs, and buzzer.
 
 ---
 
-## Setting Up Your AlphoBoard on Arduino IDE
+## Setting Up Your AlphaBoard on Arduino IDE
 
 ### Step 1: Connect and Configure
 
